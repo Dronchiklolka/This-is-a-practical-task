@@ -1,10 +1,10 @@
-@media screen and (max-width: 500px)  {
-	.container-left {
+@media screen and (max-width: 593px)  {
+	.container-leftt {
 		float: none;
 		width: 100%;
 	}
 
-	.container-right{
+	.container-rightt{
 		float: none;
 		width: 100%;
 	}
@@ -16,4 +16,38 @@
 	tr{
 	display: block;
     }
+
+    nav{
+	font-size: 18px;
+	position: absolute;
+	bottom: -60px;
+	left: 22%;
+}
+}
+
+@media screen and (max-width: 298px)  {
+	.container-leftt {
+		float: none;
+		width: 100%;
+	}
+
+	.container-rightt{
+		float: none;
+		width: 100%;
+	}
+
+	body{
+		font-size: 0;
+	}
+
+	tr{
+	display: block;
+    }
+
+    nav{
+	font-size: 18px;
+	position: absolute;
+	bottom: -150px;
+	left: 35%;
+}
 }
