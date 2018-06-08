@@ -12,6 +12,7 @@ a{
 
 }
 
+
 .container-form{
 	width: 100%;
 	max-width: 1170px;
@@ -30,6 +31,7 @@ a{
 	background-color: #aeaeae;
 	text-align: center;
 	height: 50px;
+	margin-bottom: 5px;
 
 }
 
@@ -60,7 +62,7 @@ a{
 
 .input-text{
 	padding: 12px;
-	width: 86%;
+	width: 70%;
 	margin: 1px;
 	border: 2px #333 solid;
 	font-size: 16px;
